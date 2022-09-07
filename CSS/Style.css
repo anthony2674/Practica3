@@ -1,0 +1,59 @@
+.contacto{
+    width: 90%;
+    margin: 15px auto;
+    background: #a7a6a6;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+form label{
+    display: block;
+    margin: 10px;
+    color: white;
+}
+
+form input{
+    display: block;
+    margin: 10px;
+}
+
+form .boton{
+    margin: 10px;
+    background: #313131;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background: rgb(189, 99, 99);
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: brown;
+}
+h3{
+    text-align: center;
+    background:lightblue ;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+p {
+    text-align: center;
+}
